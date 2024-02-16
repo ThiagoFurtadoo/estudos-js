@@ -15,6 +15,9 @@
     8
     10
 */
+
+//My answer:
+
 {
     console.log ('Odd') 
     console.log (' ')
@@ -37,7 +40,7 @@
     console.log ('10')
 }
 
-//Resposta/Answer:
+//Teacher's answer:
 
 {
     console.log ('1');
